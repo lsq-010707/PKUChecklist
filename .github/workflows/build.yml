@@ -1,0 +1,54 @@
+name: Build checklist
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'PKUChecklist.csv'
+      - 'PKURecords.csv'
+      - 'scripts/**'
+      - 'evidence/**'
+      - '.github/workflows/build.yml'
+  pull_request:
+    paths:
+      - 'PKUChecklist.csv'
+      - 'PKURecords.csv'
+      - 'scripts/**'
+      - 'evidence/**'
+      - '.github/workflows/build.yml'
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: checklist-${{ github.ref }}
+  cancel-in-progress: false
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: r-lib/actions/setup-r@v2
+        with:
+          r-version: 'release'
+          use-public-rspm: true
+      - name: Validate and generate Markdown
+        run: Rscript scripts/generate_markdown.R
+      - name: Upload generated checklist
+        uses: actions/upload-artifact@v4
+        with:
+          name: checklist
+          path: checklist.md
+          if-no-files-found: error
+      - name: Commit generated Markdown
+        if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add checklist.md
+          if git diff --cached --quiet; then
+            echo "No changes to checklist.md"
+          else
+            git commit -m "Update generated checklist"
+            git push origin HEAD:main
+          fi
