@@ -1,4 +1,4 @@
-taxon_id,order,family,cn_name,sci_name,en_name,status,remarks,avibase_code
+﻿taxon_id,order,family,cn_name,sci_name,en_name,status,remarks,avibase_code
 276,Anseriformes,Anatidae,灰雁,Anser anser,Graylag Goose,确认,,avibase-4AED44E8
 282,Anseriformes,Anatidae,鸿雁,Anser cygnoides,Swan Goose,,,avibase-946E4517
 288,Anseriformes,Anatidae,白额雁,Anser albifrons,Greater White-fronted Goose,,,avibase-466E9077
@@ -49,8 +49,8 @@ taxon_id,order,family,cn_name,sci_name,en_name,status,remarks,avibase_code
 6169,Charadriiformes,Scolopacidae,白腰草鹬,Tringa ochropus,Green Sandpiper,,,avibase-A7B17EFC
 6281,Charadriiformes,Turnicidae,黄脚三趾鹑,Turnix tanki,Yellow-legged Buttonquail,,,avibase-950909C3
 6586,Charadriiformes,Laridae,蒙古银鸥,Larus mongolicus,Mongolian Gull,,,avibase-E1325FAB
-6879,Podicipediformes,Podicipedidae,小??,Tachybaptus ruficollis,Little Grebe,,,avibase-215FEA89
-6924,Podicipediformes,Podicipedidae,凤头??,Podiceps cristatus,Great Crested Grebe,,,avibase-8F269702
+6879,Podicipediformes,Podicipedidae,小䴙䴘,Tachybaptus ruficollis,Little Grebe,,,avibase-215FEA89
+6924,Podicipediformes,Podicipedidae,凤头䴙䴘,Podiceps cristatus,Great Crested Grebe,,,avibase-8F269702
 7338,Ciconiiformes,Ciconiidae,黑鹳,Ciconia nigra,Black Stork,,,avibase-E2817DAE
 7350,Ciconiiformes,Ciconiidae,东方白鹳,Ciconia boyciana,Oriental Stork,,,avibase-C417573F
 7452,Suliformes,Phalacrocoracidae,普通鸬鹚,Phalacrocorax carbo,Great Cormorant,,,avibase-3DF5C587
@@ -102,7 +102,7 @@ taxon_id,order,family,cn_name,sci_name,en_name,status,remarks,avibase_code
 10162,Coraciiformes,Alcedinidae,蓝翡翠,Halcyon pileata,Black-capped Kingfisher,,,avibase-6B292CA0
 10368,Coraciiformes,Alcedinidae,冠鱼狗,Megaceryle lugubris,Crested Kingfisher,,,avibase-BE8DC16C
 10430,Coraciiformes,Coraciidae,三宝鸟,Eurystomus orientalis,Oriental Dollarbird,,,avibase-924BAB9C
-11075,Piciformes,Picidae,蚁?,Jynx torquilla,Eurasian Wryneck,,,avibase-B2E6AB9F
+11075,Piciformes,Picidae,蚁䴕,Jynx torquilla,Eurasian Wryneck,,,avibase-B2E6AB9F
 11310,Piciformes,Picidae,星头啄木鸟,Yungipicus canicapillus,Gray-capped Pygmy Woodpecker,,,avibase-5A4F2DF6
 11395,Piciformes,Picidae,棕腹啄木鸟,Dendrocopos hyperythrus,Rufous-bellied Woodpecker,,,avibase-DC1B8B91
 11426,Piciformes,Picidae,大斑啄木鸟,Dendrocopos major,Great Spotted Woodpecker,,,avibase-D754DB85
@@ -168,7 +168,7 @@ taxon_id,order,family,cn_name,sci_name,en_name,status,remarks,avibase_code
 24927,Passeriformes,Phylloscopidae,棕眉柳莺,Phylloscopus armandii,Yellow-streaked Warbler,,,avibase-B763DEC5
 24937,Passeriformes,Phylloscopidae,褐柳莺,Phylloscopus fuscatus,Dusky Warbler,,,avibase-96819591
 24981,Passeriformes,Phylloscopidae,冕柳莺,Phylloscopus coronatus,Eastern Crowned Warbler,,,avibase-2D272F5A
-25030,Passeriformes,Phylloscopidae,淡尾鹟莺,Phylloscopus soror,Alstr?m's Warbler,,,avibase-65EA17D9
+25030,Passeriformes,Phylloscopidae,淡尾鹟莺,Phylloscopus soror,Alström's Warbler,,,avibase-65EA17D9
 25041,Passeriformes,Phylloscopidae,双斑绿柳莺,Phylloscopus plumbeitarsus,Two-barred Warbler,,,avibase-38C788AE
 25044,Passeriformes,Phylloscopidae,乌嘴柳莺,Phylloscopus magnirostris,Large-billed Leaf Warbler,,,avibase-C31573A5
 25046,Passeriformes,Phylloscopidae,淡脚柳莺,Phylloscopus tenellipes,Pale-legged Leaf Warbler,,,avibase-D0FA2385
@@ -229,7 +229,7 @@ taxon_id,order,family,cn_name,sci_name,en_name,status,remarks,avibase_code
 29811,Passeriformes,Muscicapidae,红尾水鸲,Phoenicurus fuliginosus,Plumbeous Redstart,,,avibase-1850B440
 29841,Passeriformes,Muscicapidae,北红尾鸲,Phoenicurus auroreus,Daurian Redstart,,,avibase-E859E499
 29849,Passeriformes,Muscicapidae,白喉矶鸫,Monticola gularis,White-throated Rock-Thrush,,,avibase-AC6BC1EC
-29888,Passeriformes,Muscicapidae,黑喉石?,Saxicola maurus,Siberian Stonechat,,,avibase-DB645AF5
+29888,Passeriformes,Muscicapidae,黑喉石䳭,Saxicola maurus,Siberian Stonechat,,,avibase-DB645AF5
 30106,Passeriformes,Bombycillidae,太平鸟,Bombycilla garrulus,Bohemian Waxwing,,,avibase-AEF821EC
 30112,Passeriformes,Bombycillidae,小太平鸟,Bombycilla japonica,Japanese Waxwing,,,avibase-F13AA87F
 31738,Passeriformes,Prunellidae,棕眉山岩鹨,Prunella montanella,Siberian Accentor,,,avibase-D3220040
