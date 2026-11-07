@@ -1,27 +1,41 @@
-# PKUChecklist · 北京大学校园鸟类名录
+# 北京大学校园鸟类名录
 
-[在线名录](https://lsq-010707.github.io/PKUChecklist/)
+[查看在线名录](https://lsq-010707.github.io/PKUChecklist/)
 
-## 日常更新
+## 平时怎么更新
 
-编辑 `PKUChecklist.csv`（物种）和 `PKURecords.csv`（重要记录），上传证据文件，然后提交到 GitHub 的 main 分支。GitHub Pages 自动发布，无需 R、Markdown 生成或自定义 Actions。
+日常只需维护两个 CSV 表格，添加照片、录音时再用到 `evidence/` 文件夹。一般不用改网页代码。
 
-保留现有表头，使用 UTF-8 标准 CSV；包含逗号、换行或双引号的单元格需按 CSV 规则转义。taxon_id 关联两个表，record_id 唯一。空状态显示“未标注”，不代表确认；统计包含排除条目。
+- **`PKUChecklist.csv`：物种名录。** 每行一个物种，填写名称、分类、状态和概述。概述写在 `remarks` 列。
+- **`PKURecords.csv`：重要记录。** 每行一次记录，填写日期、地点、观察者和记录内容。没有的信息留空，不要猜填。
 
-证据放在 `evidence/`，在记录的 evidence 列填写一个相对路径（例如 `evidence/276/20250319.jpg`）或 HTTP(S) 地址。使用 `/`，路径区分大小写，不支持 `..` 或一格多个地址。图片 jpg/jpeg/png/gif/webp、音频 mp3/wav/ogg/m4a 自动内嵌，其他资源显示链接。备注按纯文本显示。
+可以用 Excel 编辑，保存时选择 **CSV UTF-8**。不要改表头，也不要删除已有的列。编辑后检查中文有没有乱码、内容有没有错列。
 
-## 本地预览
+## 编号和状态
 
-在本目录运行 `python -m http.server 8000 --bind 127.0.0.1`，打开 http://localhost:8000 。需要 Python 3；在线网站无需安装软件。不要双击 HTML，浏览器需要通过 HTTP 读取 CSV，并启用 JavaScript。
+- `taxon_id` 是物种编号。记录表中的编号必须与名录对应；修改物种编号时，要同步修改相关记录。
+- `record_id` 是每条记录的编号，不能重复。可以沿用“日期-物种编号-序号”的写法，例如 `250319-276-1`。
+- `status` 使用 `确认`、`可能`、`排除`，或留空。留空时网页显示“未标注”。状态需要人工核查，网站不会根据描述自动判断。
+- 网页上的“校园物种数”是“确认”与“可能”的合计，不包括“排除”和“未标注”。
 
-## 发布设置与文件
+新增记录前，先检查是否已录入同一笔记录，避免重复。
 
-GitHub Settings → Pages → Deploy from a branch → main → /(root)。
+## 添加照片或录音
 
-- `index.html`、`assets/`：网页与交互，无外部 CDN 依赖。
-- 两个 CSV：权威数据源。
-- `evidence/`：证据素材。
-- `.nojekyll`：直接发布静态文件。
-- `.gitignore`：忽略本机临时文件。
+把文件放入 `evidence/`，再在记录表的 `evidence` 列填写路径，例如 `evidence/276/20250319.jpg`。没有证据文件就留空，也可以填写完整的 `https://` 链接。
 
-布局参考 [XizangAvifauna](https://github.com/lsq-010707/XizangAvifauna)。物种详情支持 `#species=276` 链接。
+每条记录目前只支持一个地址。路径使用 `/`，大小写须与文件名一致，不要以 `/` 开头，也不要使用 `..`。常见图片和音频会直接显示，其他文件显示为链接。
+
+## 发布更新
+
+将改好的 CSV 和新增证据文件提交到 GitHub 的 **main** 分支，网站会自动更新。发布后打开在线名录，检查修改的物种、状态和记录是否正确；证据文件也要点开确认。
+
+`index.html` 和 `assets/` 是网页代码，`.nojekyll` 用于网站发布，日常维护请保留。
+
+如需在电脑上预览，安装 Python 3 后，在仓库目录运行：
+
+```sh
+python -m http.server 8000 --bind 127.0.0.1
+```
+
+然后打开 [本地预览](http://localhost:8000)。直接双击 HTML 无法正常读取表格。
