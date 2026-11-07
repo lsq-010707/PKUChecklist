@@ -612,7 +612,7 @@
 
 ---
 
-## 小??
+## 小䴙䴘
 
 **学名：** *Tachybaptus ruficollis*  
 **英文名：** Little Grebe
@@ -624,7 +624,7 @@
 
 ---
 
-## 凤头??
+## 凤头䴙䴘
 
 **学名：** *Podiceps cristatus*  
 **英文名：** Great Crested Grebe
@@ -1248,7 +1248,7 @@
 
 ---
 
-## 蚁?
+## 蚁䴕
 
 **学名：** *Jynx torquilla*  
 **英文名：** Eurasian Wryneck
@@ -2043,7 +2043,7 @@
 ## 淡尾鹟莺
 
 **学名：** *Phylloscopus soror*  
-**英文名：** Alstr?m's Warbler
+**英文名：** Alström's Warbler
 
 **目：** Passeriformes　｜　**科：** Phylloscopidae
 
@@ -2772,7 +2772,7 @@
 
 ---
 
-## 黑喉石?
+## 黑喉石䳭
 
 **学名：** *Saxicola maurus*  
 **英文名：** Siberian Stonechat
