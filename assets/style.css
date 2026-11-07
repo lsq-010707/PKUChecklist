@@ -41,3 +41,6 @@ dialog{position:fixed;inset:0 0 0 auto;margin:0;height:100dvh;max-height:100dvh;
 
 /* Compact checklist layout */
 .heroCompact{min-height:0;padding:24px 0;gap:24px}.hero .herotitle{font-size:clamp(25px,3vw,36px);margin:0}.heroStats .statnum{font-size:26px}.heroStats .statcaption{margin-top:3px}.workspace{padding-top:20px;padding-bottom:26px;gap:16px}.filterPanel{padding:16px}.toolbar{padding:14px 18px}.toolbarBottom{margin-top:10px}.speciesrow{padding:12px 18px}.filterDivider{margin:12px 0}.drawerScroll{padding-top:22px}footer{padding:12px 0}@media(max-width:700px){.heroCompact{padding:18px 0}.hero .herotitle{font-size:26px}.heroStats{margin-top:14px;padding-top:12px}.workspace{padding-top:14px;gap:12px}.speciesrow{padding:11px 14px}}
+
+
+.heroCompact{padding-top:40px;padding-bottom:40px}@media(max-width:700px){.heroCompact{padding-top:28px;padding-bottom:28px}}
