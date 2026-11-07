@@ -1,48 +1,48 @@
 ﻿taxon_id,order,family,cn_name,sci_name,en_name,status,remarks,avibase_code
 276,Anseriformes,Anatidae,灰雁,Anser anser,Graylag Goose,确认,罕见的旅鸟，仅有一次记录，但很多时候由于飞行高度或能见度原因，仅能识别到Anser属，所以过去可能受到忽视，此外该物种在北京存在较多饲养个体，因此季节、行为反常的记录需要谨慎,avibase-4AED44E8
-282,Anseriformes,Anatidae,鸿雁,Anser cygnoides,Swan Goose,,少见的旅鸟，一年不足一次记录，但很多时候由于飞行高度或能见度原因，仅能识别到Anser属，所以过去可能受到忽视，此外该物种在北京存在较多饲养个体，因此季节、行为反常的记录需要谨慎,avibase-946E4517
-288,Anseriformes,Anatidae,白额雁,Anser albifrons,Greater White-fronted Goose,,罕见的旅鸟，仅有一次记录，但很多时候由于飞行高度或能见度原因，仅能识别到Anser属，所以过去可能受到忽视,avibase-466E9077
+282,Anseriformes,Anatidae,鸿雁,Anser cygnoides,Swan Goose,确认,少见的旅鸟，一年不足一次记录，但很多时候由于飞行高度或能见度原因，仅能识别到Anser属，所以过去可能受到忽视，此外该物种在北京存在较多饲养个体，因此季节、行为反常的记录需要谨慎,avibase-946E4517
+288,Anseriformes,Anatidae,白额雁,Anser albifrons,Greater White-fronted Goose,确认,罕见的旅鸟，仅有一次记录，但很多时候由于飞行高度或能见度原因，仅能识别到Anser属，所以过去可能受到忽视,avibase-466E9077
 305,Anseriformes,Anatidae,豆雁,Anser fabalis,Taiga Bean-Goose,排除,"没有可确认的记录，可能为遗留的分类问题，考虑到北京地区短嘴豆雁过境数量明显大于豆雁，暂时排除
 罕见，近年无确切记录",avibase-BDB497A3
 310,Anseriformes,Anatidae,短嘴豆雁,Anser serrirostris,Tundra Bean-Goose,,不常见的旅鸟，一年仅有少数几次记录，但很多时候由于飞行高度或能见度原因，仅能识别到Anser属，所以过去可能受到忽视,avibase-AD849FCB
 390,Anseriformes,Anatidae,小天鹅,Cygnus columbianus,Tundra Swan,,不常见的旅鸟，一年约有一次记录，但很多时候由于飞行高度或能见度原因，仅能识别到Cygnus属，应注意其飞鸣,avibase-0BCBA6B9
 428,Anseriformes,Anatidae,赤麻鸭,Tadorna ferruginea,Ruddy Shelduck,,不常见的旅鸟，一年约有一次记录，此外该物种在北京存在一定饲养个体，因此季节、行为反常的记录需要谨慎,avibase-1F9D883E
 465,Anseriformes,Anatidae,鸳鸯,Aix galericulata,Mandarin Duck,,甚常见的留鸟，最早应主要来自野化放归种群，可能存在长距迁徙个体,avibase-E1714A09
-485,Anseriformes,Anatidae,花脸鸭,Sibirionetta formosa,Baikal Teal,,少见的旅鸟和冬候鸟，一年不足一次记录,avibase-63EABB42
-517,Anseriformes,Anatidae,罗纹鸭,Mareca falcata,Falcated Duck,,罕见的冬候鸟和旅鸟，仅有两次记录,avibase-978D4485
-520,Anseriformes,Anatidae,赤颈鸭,Mareca penelope,Eurasian Wigeon,,罕见的冬候鸟，仅有一次记录,avibase-15EE0D36
+485,Anseriformes,Anatidae,花脸鸭,Sibirionetta formosa,Baikal Teal,确认,少见的旅鸟和冬候鸟，一年不足一次记录,avibase-63EABB42
+517,Anseriformes,Anatidae,罗纹鸭,Mareca falcata,Falcated Duck,确认,罕见的冬候鸟和旅鸟，仅有两次记录,avibase-978D4485
+520,Anseriformes,Anatidae,赤颈鸭,Mareca penelope,Eurasian Wigeon,确认,罕见的冬候鸟，仅有一次记录,avibase-15EE0D36
 554,Anseriformes,Anatidae,绿头鸭,Anas platyrhynchos,Mallard,,甚常见的留鸟，最早应主要来自野化放归种群，可能存在长距迁徙个体，注意目前校园内有一定数量、不同品种的家鸭,avibase-85625D75
 625,Anseriformes,Anatidae,绿翅鸭,Anas crecca,Green-winged Teal,,不常见的旅鸟，2017冬季至2024春季有一稳定记录的雄鸟，仅夏季换羽前后不在校园内，此外一年约有一次记录,avibase-BC6C3CCE
-762,Anseriformes,Anatidae,长尾鸭,Clangula hyemalis,Long-tailed Duck,,罕见的旅鸟，仅有一次记录,avibase-AF0C7BDE
+762,Anseriformes,Anatidae,长尾鸭,Clangula hyemalis,Long-tailed Duck,确认,罕见的旅鸟，仅有一次记录,avibase-AF0C7BDE
 764,Anseriformes,Anatidae,鹊鸭,Bucephala clangula,Common Goldeneye,,罕见，近年无记录,avibase-68EA281A
-783,Anseriformes,Anatidae,普通秋沙鸭,Mergus merganser,Common Merganser,,少见的旅鸟和冬候鸟，一年不足一次记录,avibase-407E2CA8
-1499,Galliformes,Phasianidae,雉鸡,Phasianus colchicus,Ring-necked Pheasant,,罕见，仅有一次记录,avibase-2FA39DCD
+783,Anseriformes,Anatidae,普通秋沙鸭,Mergus merganser,Common Merganser,确认,少见的旅鸟和冬候鸟，一年不足一次记录,avibase-407E2CA8
+1499,Galliformes,Phasianidae,雉鸡,Phasianus colchicus,Ring-necked Pheasant,确认,罕见，仅有一次记录,avibase-2FA39DCD
 1766,Galliformes,Phasianidae,鹌鹑,Coturnix japonica,Japanese Quail,,不常见的旅鸟，一年仅有少数几次记录，救助、死亡记录较多,avibase-110CF425
 2046,Columbiformes,Columbidae,山斑鸠,Streptopelia orientalis,Oriental Turtle-Dove,,甚常见的留鸟,avibase-6658BAC5
-2055,Columbiformes,Columbidae,灰斑鸠,Streptopelia decaocto,Eurasian Collared-Dove,,少见，一年不足一次记录,avibase-0C1EFC9B
+2055,Columbiformes,Columbidae,灰斑鸠,Streptopelia decaocto,Eurasian Collared-Dove,确认,少见，一年不足一次记录,avibase-0C1EFC9B
 2083,Columbiformes,Columbidae,火斑鸠,Streptopelia tranquebarica,Red Collared-Dove,,罕见，近年无记录,avibase-BC140778
 2088,Columbiformes,Columbidae,珠颈斑鸠,Spilopelia chinensis,Spotted Dove,,甚常见的留鸟,avibase-C8EF4F36
-2889,Pterocliformes,Pteroclidae,毛腿沙鸡,Syrrhaptes paradoxus,Pallas's Sandgrouse,,少见的旅鸟，有明显的大小年，一年不足一次记录,avibase-BDCB55F1
+2889,Pterocliformes,Pteroclidae,毛腿沙鸡,Syrrhaptes paradoxus,Pallas's Sandgrouse,确认,少见的旅鸟，有明显的大小年，一年不足一次记录,avibase-BDCB55F1
 3298,Cuculiformes,Cuculidae,噪鹃,Eudynamys scolopaceus,Asian Koel,,不常见的夏候鸟，一年仅有少数几次记录,avibase-61503588
-3445,Cuculiformes,Cuculidae,大鹰鹃,Hierococcyx sparverioides,Large Hawk-Cuckoo,,少见的夏候鸟，一年不足一次记录,avibase-CC033E81
-3454,Cuculiformes,Cuculidae,北棕腹鹰鹃,Hierococcyx hyperythrus,Northern Hawk-Cuckoo,,罕见的旅鸟，仅有一次记录,avibase-207B3537
+3445,Cuculiformes,Cuculidae,大鹰鹃,Hierococcyx sparverioides,Large Hawk-Cuckoo,确认,少见的夏候鸟，一年不足一次记录,avibase-CC033E81
+3454,Cuculiformes,Cuculidae,北棕腹鹰鹃,Hierococcyx hyperythrus,Northern Hawk-Cuckoo,确认,罕见的旅鸟，仅有一次记录,avibase-207B3537
 3463,Cuculiformes,Cuculidae,小杜鹃,Cuculus poliocephalus,Lesser Cuckoo,,罕见，近年无记录,avibase-FF41B79F
 3465,Cuculiformes,Cuculidae,四声杜鹃,Cuculus micropterus,Indian Cuckoo,,常见的夏候鸟和旅鸟,avibase-5CFEDF61
 3473,Cuculiformes,Cuculidae,大杜鹃,Cuculus canorus,Common Cuckoo,,较常见的夏候鸟和旅鸟，但无确切的繁殖记录,avibase-B3D2C3C5
 3479,Cuculiformes,Cuculidae,北方中杜鹃,Cuculus optatus,Oriental Cuckoo,,,avibase-6A735030
-3669,Caprimulgiformes,Caprimulgidae,普通夜鹰,Caprimulgus jotaka,Gray Nightjar,,少见的旅鸟，一年不足一次记录,avibase-7A2734EB
+3669,Caprimulgiformes,Caprimulgidae,普通夜鹰,Caprimulgus jotaka,Gray Nightjar,确认,少见的旅鸟，一年不足一次记录,avibase-7A2734EB
 4131,Apodiformes,Apodidae,普通雨燕,Apus apus,Common Swift,,甚常见的夏候鸟和常见的旅鸟，有稳定繁殖记录，数量较大,avibase-4E6EF3F9
 4164,Apodiformes,Apodidae,白腰雨燕,Apus pacificus,Pacific Swift,,不常见的旅鸟，一年仅有少数几次记录,avibase-E23EBEFB
 5349,Gruiformes,Rallidae,普通秧鸡,Rallus indicus,Brown-cheeked Rail,,罕见，近年无记录,avibase-ACD9E3E1
 5500,Gruiformes,Rallidae,黑水鸡,Gallinula chloropus,Eurasian Moorhen,,较常见的留鸟，近年来愈发常见，2024年起于中水池有繁殖记录，约有两对,avibase-8F82FF8C
-5525,Gruiformes,Rallidae,白骨顶,Fulica atra,Eurasian Coot,,首次发现后较常见的留鸟，但目前没有确切的繁殖记录,avibase-B682B2A9
-5590,Gruiformes,Rallidae,白胸苦恶鸟,Amaurornis phoenicurus,White-breasted Waterhen,,罕见的冬候鸟，近年仅一次记录,avibase-F53518E3
+5525,Gruiformes,Rallidae,白骨顶,Fulica atra,Eurasian Coot,确认,首次发现后较常见的留鸟，但目前没有确切的繁殖记录,avibase-B682B2A9
+5590,Gruiformes,Rallidae,白胸苦恶鸟,Amaurornis phoenicurus,White-breasted Waterhen,确认,罕见的冬候鸟，近年仅一次记录,avibase-F53518E3
 5616,Gruiformes,Rallidae,红胸田鸡,Zapornia fusca,Ruddy-breasted Crake,,罕见，近年无记录,avibase-14C2B730
-5743,Gruiformes,Gruidae,白枕鹤,Antigone vipio,White-naped Crane,,罕见的旅鸟，仅有两次记录,avibase-1125F89D
-5756,Gruiformes,Gruidae,灰鹤,Grus grus,Common Crane,,罕见的旅鸟，仅有一次记录，但很多时候由于飞行高度或能见度原因，仅能识别到鹤科，所以过去可能受到忽视,avibase-99B8841E
-5815,Charadriiformes,Recurvirostridae,反嘴鹬,Recurvirostra avosetta,Pied Avocet,,罕见的旅鸟，仅有一次,avibase-C73ED2F5
+5743,Gruiformes,Gruidae,白枕鹤,Antigone vipio,White-naped Crane,确认,罕见的旅鸟，仅有两次记录,avibase-1125F89D
+5756,Gruiformes,Gruidae,灰鹤,Grus grus,Common Crane,确认,罕见的旅鸟，仅有一次记录，但很多时候由于飞行高度或能见度原因，仅能识别到鹤科，所以过去可能受到忽视,avibase-99B8841E
+5815,Charadriiformes,Recurvirostridae,反嘴鹬,Recurvirostra avosetta,Pied Avocet,确认,罕见的旅鸟，仅有一次,avibase-C73ED2F5
 5887,Charadriiformes,Charadriidae,金眶鸻,Thinornis dubius,Little Ringed Plover,,罕见，近年无记录,avibase-35EC3BBF
-5921,Charadriiformes,Charadriidae,灰头麦鸡,Vanellus cinereus,Gray-headed Lapwing,,少见的旅鸟，一年不足一次记录,avibase-8F8F0CF0
+5921,Charadriiformes,Charadriidae,灰头麦鸡,Vanellus cinereus,Gray-headed Lapwing,确认,少见的旅鸟，一年不足一次记录,avibase-8F8F0CF0
 6106,Charadriiformes,Scolopacidae,丘鹬,Scolopax rusticola,Eurasian Woodcock,,不常见的旅鸟，一年约有一次记录,avibase-BFE14290
 6133,Charadriiformes,Scolopacidae,针尾沙锥,Gallinago stenura,Pin-tailed Snipe,,罕见，近年无记录,avibase-EE61E2CA
 6140,Charadriiformes,Scolopacidae,扇尾沙锥,Gallinago gallinago,Common Snipe,,,avibase-9151E0BA
@@ -51,9 +51,9 @@
 6281,Charadriiformes,Turnicidae,黄脚三趾鹑,Turnix tanki,Yellow-legged Buttonquail,,罕见，近年无记录,avibase-950909C3
 6586,Charadriiformes,Laridae,蒙古银鸥,Larus mongolicus,Mongolian Gull,,不常见的旅鸟，一年仅有少数几次记录，过去可能受到忽视,avibase-E1325FAB
 6879,Podicipediformes,Podicipedidae,小䴙䴘,Tachybaptus ruficollis,Little Grebe,,较常见的留鸟，但近年无确切的繁殖记录,avibase-215FEA89
-6924,Podicipediformes,Podicipedidae,凤头䴙䴘,Podiceps cristatus,Great Crested Grebe,,少见，一年不足一次记录,avibase-8F269702
-7338,Ciconiiformes,Ciconiidae,黑鹳,Ciconia nigra,Black Stork,,少见的旅鸟，一年不足一次记录,avibase-E2817DAE
-7350,Ciconiiformes,Ciconiidae,东方白鹳,Ciconia boyciana,Oriental Stork,,罕见的旅鸟，仅有两次记录,avibase-C417573F
+6924,Podicipediformes,Podicipedidae,凤头䴙䴘,Podiceps cristatus,Great Crested Grebe,确认,少见，一年不足一次记录,avibase-8F269702
+7338,Ciconiiformes,Ciconiidae,黑鹳,Ciconia nigra,Black Stork,确认,少见的旅鸟，一年不足一次记录,avibase-E2817DAE
+7350,Ciconiiformes,Ciconiidae,东方白鹳,Ciconia boyciana,Oriental Stork,确认,罕见的旅鸟，仅有两次记录,avibase-C417573F
 7452,Suliformes,Phalacrocoracidae,普通鸬鹚,Phalacrocorax carbo,Great Cormorant,,较常见的旅鸟和冬候鸟，近年来似乎愈发常见,avibase-3DF5C587
 7582,Pelecaniformes,Threskiornithidae,白琵鹭,Platalea leucorodia,Eurasian Spoonbill,,,avibase-A0A584C1
 7614,Pelecaniformes,Ardeidae,大麻鳽,Botaurus stellaris,Eurasian Bittern,,,avibase-0F42F11A
@@ -101,8 +101,8 @@
 9671,Bucerotiformes,Upupidae,戴胜,Upupa epops,Common Hoopoe,,较常见的夏候鸟和旅鸟，曾经有繁殖记录，但近年尚无确切繁殖记录,avibase-FA2F9125
 9981,Coraciiformes,Alcedinidae,普通翠鸟,Alcedo atthis,Common Kingfisher,,常见的留鸟,avibase-9505E03D
 10162,Coraciiformes,Alcedinidae,蓝翡翠,Halcyon pileata,Black-capped Kingfisher,,罕见，近年无记录,avibase-6B292CA0
-10368,Coraciiformes,Alcedinidae,冠鱼狗,Megaceryle lugubris,Crested Kingfisher,,罕见，仅三次记录,avibase-BE8DC16C
-10430,Coraciiformes,Coraciidae,三宝鸟,Eurystomus orientalis,Oriental Dollarbird,,罕见的夏候鸟或旅鸟，近年仅有一次记录,avibase-924BAB9C
+10368,Coraciiformes,Alcedinidae,冠鱼狗,Megaceryle lugubris,Crested Kingfisher,确认,罕见，仅三次记录,avibase-BE8DC16C
+10430,Coraciiformes,Coraciidae,三宝鸟,Eurystomus orientalis,Oriental Dollarbird,确认,罕见的夏候鸟或旅鸟，近年仅有一次记录,avibase-924BAB9C
 11075,Piciformes,Picidae,蚁䴕,Jynx torquilla,Eurasian Wryneck,,不常见的旅鸟，一年约有一次记录,avibase-B2E6AB9F
 11310,Piciformes,Picidae,星头啄木鸟,Yungipicus canicapillus,Gray-capped Pygmy Woodpecker,,常见的留鸟,avibase-5A4F2DF6
 11395,Piciformes,Picidae,棕腹啄木鸟,Dendrocopos hyperythrus,Rufous-bellied Woodpecker,,不常见的旅鸟，一年仅有少数几次记录,avibase-DC1B8B91
@@ -116,49 +116,49 @@
 12188,Falconiformes,Falconidae,猎隼,Falco cherrug,Saker Falcon,,,avibase-A9F51494
 12194,Falconiformes,Falconidae,游隼,Falco peregrinus,Peregrine Falcon,,,avibase-47E58408
 18703,Passeriformes,Campephagidae,长尾山椒鸟,Pericrocotus ethologus,Long-tailed Minivet,,不常见的旅鸟，一年仅有少数几次记录，注意其飞鸣,avibase-8F319AD8
-18736,Passeriformes,Campephagidae,灰山椒鸟,Pericrocotus divaricatus,Ashy Minivet,,少见的旅鸟，一年不足一次记录,avibase-622DB161
-18738,Passeriformes,Campephagidae,小灰山椒鸟,Pericrocotus cantonensis,Brown-rumped Minivet,,少见的旅鸟，一年不足一次记录,avibase-150830DD
+18736,Passeriformes,Campephagidae,灰山椒鸟,Pericrocotus divaricatus,Ashy Minivet,确认,少见的旅鸟，一年不足一次记录,avibase-622DB161
+18738,Passeriformes,Campephagidae,小灰山椒鸟,Pericrocotus cantonensis,Brown-rumped Minivet,确认,少见的旅鸟，一年不足一次记录,avibase-150830DD
 18940,Passeriformes,Campephagidae,暗灰鹃鵙,Lalage melaschistos,Black-winged Cuckooshrike,,,avibase-FAE71B8F
 19732,Passeriformes,Oriolidae,黑枕黄鹂,Oriolus chinensis,Black-naped Oriole,,较常见的旅鸟和不常见的夏候鸟，镜春园春夏季节有稳定记录，但近年无确切的繁殖记录，可能主要为圆明园繁殖个体,avibase-CC216A71
 20532,Passeriformes,Dicruridae,黑卷尾,Dicrurus macrocercus,Black Drongo,,不常见的旅鸟，一年约有一次记录,avibase-D90F9B0B
-20577,Passeriformes,Dicruridae,发冠卷尾,Dicrurus hottentottus,Hair-crested Drongo,,少见的旅鸟，一年不足一次记录,avibase-00E2192F
-20825,Passeriformes,Monarchidae,寿带,Terpsiphone incei,Amur Paradise-Flycatcher,,少见的旅鸟，一年不足一次记录,avibase-D293082B
-21139,Passeriformes,Laniidae,牛头伯劳,Lanius bucephalus,Bull-headed Shrike,,少见的旅鸟，一年不足一次记录,avibase-A4C59A23
+20577,Passeriformes,Dicruridae,发冠卷尾,Dicrurus hottentottus,Hair-crested Drongo,确认,少见的旅鸟，一年不足一次记录,avibase-00E2192F
+20825,Passeriformes,Monarchidae,寿带,Terpsiphone incei,Amur Paradise-Flycatcher,确认,少见的旅鸟，一年不足一次记录,avibase-D293082B
+21139,Passeriformes,Laniidae,牛头伯劳,Lanius bucephalus,Bull-headed Shrike,确认,少见的旅鸟，一年不足一次记录,avibase-A4C59A23
 21151,Passeriformes,Laniidae,红尾伯劳,Lanius cristatus,Brown Shrike,,较常见的旅鸟和少见的夏候鸟，lucionensis亚种2022年于大学堂柱有繁殖记录，疑似为该繁殖对失败后的第二巢,avibase-E4968582
-21229,Passeriformes,Laniidae,楔尾伯劳,Lanius sphenocercus,Chinese Gray Shrike,,罕见，仅有一次记录，应为游荡个体,avibase-7DEB77F3
+21229,Passeriformes,Laniidae,楔尾伯劳,Lanius sphenocercus,Chinese Gray Shrike,确认,罕见，仅有一次记录，应为游荡个体,avibase-7DEB77F3
 21440,Passeriformes,Corvidae,松鸦,Garrulus glandarius,Eurasian Jay,,罕见，近年无记录,avibase-D8D10F2C
 21489,Passeriformes,Corvidae,灰喜鹊,Cyanopica cyanus,Azure-winged Magpie,,甚常见的留鸟,avibase-659D6E44
 21506,Passeriformes,Corvidae,红嘴蓝鹊,Urocissa erythroryncha,Red-billed Blue-Magpie,,常见的留鸟，近年来朗润园有稳定繁殖记录,avibase-76C44D5A
 21564,Passeriformes,Corvidae,喜鹊,Pica serica,Oriental Magpie,,甚常见的留鸟,avibase-7D3B961F
-21596,Passeriformes,Corvidae,红嘴山鸦,Pyrrhocorax pyrrhocorax,Red-billed Chough,,罕见，仅有一次记录,avibase-18D2C42A
+21596,Passeriformes,Corvidae,红嘴山鸦,Pyrrhocorax pyrrhocorax,Red-billed Chough,确认,罕见，仅有一次记录,avibase-18D2C42A
 21617,Passeriformes,Corvidae,达乌里寒鸦,Coloeus dauuricus,Daurian Jackdaw,,常见的旅鸟，春秋季节多见集大群迁徙,avibase-9F784AB1
 21653,Passeriformes,Corvidae,秃鼻乌鸦,Corvus frugilegus,Rook,,较常见的旅鸟和冬候鸟，多与达乌里寒鸦和小嘴乌鸦混群，在清华有稳定越冬，因此冬季晨昏可见飞过个体,avibase-1078FFEA
 21674,Passeriformes,Corvidae,小嘴乌鸦,Corvus corone,Carrion Crow,,常见的旅鸟和甚常见的冬候鸟，在清华的越冬群体数量极大，因此冬季晨昏可见大量飞过个体,avibase-26FB62DA
 21685,Passeriformes,Corvidae,大嘴乌鸦,Corvus macrorhynchos,Large-billed Crow,,常见的留鸟，近年来未名湖南有较稳定繁殖记录，约有两对,avibase-A9146F3B
-22047,Passeriformes,Paridae,煤山雀,Periparus ater,Coal Tit,,少见的旅鸟和冬候鸟，有大小年，一年不足一次记录,avibase-166CD440
+22047,Passeriformes,Paridae,煤山雀,Periparus ater,Coal Tit,确认,少见的旅鸟和冬候鸟，有大小年，一年不足一次记录,avibase-166CD440
 22081,Passeriformes,Paridae,黄腹山雀,Periparus venustulus,Yellow-bellied Tit,,常见的旅鸟和不常见的冬候鸟，注意其飞鸣,avibase-219D942F
 22128,Passeriformes,Paridae,沼泽山雀,Poecile palustris,Marsh Tit,,甚常见的留鸟，近年来似乎愈发常见,avibase-523763E5
 22294,Passeriformes,Paridae,大山雀,Parus cinereus,Asian Tit,,常见的留鸟,avibase-414DC961
-22393,Passeriformes,Remizidae,中华攀雀,Remiz consobrinus,Chinese Penduline-Tit,,罕见的旅鸟，仅有一次记录,avibase-6D6870E3
+22393,Passeriformes,Remizidae,中华攀雀,Remiz consobrinus,Chinese Penduline-Tit,确认,罕见的旅鸟，仅有一次记录,avibase-6D6870E3
 22717,Passeriformes,Alaudidae,云雀,Alauda arvensis,Eurasian Skylark,,应为较常见的旅鸟，过去可能受到忽视，注意其飞鸣,avibase-ED2AC04E
-22812,Passeriformes,Alaudidae,角百灵,Eremophila alpestris,Horned Lark,,罕见的旅鸟，仅有一次记录,avibase-FC0A1D95
+22812,Passeriformes,Alaudidae,角百灵,Eremophila alpestris,Horned Lark,确认,罕见的旅鸟，仅有一次记录,avibase-FC0A1D95
 22897,Passeriformes,Alaudidae,蒙古百灵,Melanocorypha mongolica,Mongolian Lark,,,avibase-0D93B732
-22940,Passeriformes,Panuridae,文须雀,Panurus biarmicus,Bearded Reedling,,罕见，近年仅有一次记录，应为游荡个体,avibase-7D59F91D
-23633,Passeriformes,Cisticolidae,棕扇尾莺,Cisticola juncidis,Zitting Cisticola,,少见的旅鸟，一年不足一次记录,avibase-AEE2063F
+22940,Passeriformes,Panuridae,文须雀,Panurus biarmicus,Bearded Reedling,确认,罕见，近年仅有一次记录，应为游荡个体,avibase-7D59F91D
+23633,Passeriformes,Cisticolidae,棕扇尾莺,Cisticola juncidis,Zitting Cisticola,确认,少见的旅鸟，一年不足一次记录,avibase-AEE2063F
 23733,Passeriformes,Acrocephalidae,厚嘴苇莺,Arundinax aedon,Thick-billed Warbler,,不常见的旅鸟，一年仅有少数几次记录,avibase-213C212A
 23760,Passeriformes,Acrocephalidae,黑眉苇莺,Acrocephalus bistrigiceps,Black-browed Reed Warbler,,较常见的旅鸟,avibase-1DB9A114
 23761,Passeriformes,Acrocephalidae,细纹苇莺,Acrocephalus sorghophilus,Streaked Reed Warbler,,罕见的旅鸟，近年无记录,avibase-D96A9FC9
-23772,Passeriformes,Acrocephalidae,远东苇莺,Acrocephalus tangorum,Manchurian Reed Warbler,,罕见的旅鸟，仅有一次记录,avibase-A5134675
-23817,Passeriformes,Acrocephalidae,东方大苇莺,Acrocephalus orientalis,Oriental Reed Warbler,,少见的旅鸟和夏候鸟，一年不足一次记录，无确切的繁殖记录，可能主要为过境或圆明园繁殖个体,avibase-9A6953ED
-23888,Passeriformes,Locustellidae,小蝗莺,Helopsaltes certhiola,Pallas's Grasshopper Warbler,,少见的旅鸟，一年不足一次观察记录，救助、死亡记录较多,avibase-4C3CF429
-23899,Passeriformes,Locustellidae,矛斑蝗莺,Locustella lanceolata,Lanceolated Warbler,,少见的旅鸟，一年不足一次观察记录，救助、死亡记录较多,avibase-10A37318
-23921,Passeriformes,Locustellidae,中华短翅蝗莺,Locustella tacsanowskia,Chinese Bush Warbler,,少见的旅鸟，一年不足一次记录,avibase-AD2C0444
+23772,Passeriformes,Acrocephalidae,远东苇莺,Acrocephalus tangorum,Manchurian Reed Warbler,确认,罕见的旅鸟，仅有一次记录,avibase-A5134675
+23817,Passeriformes,Acrocephalidae,东方大苇莺,Acrocephalus orientalis,Oriental Reed Warbler,确认,少见的旅鸟和夏候鸟，一年不足一次记录，无确切的繁殖记录，可能主要为过境或圆明园繁殖个体,avibase-9A6953ED
+23888,Passeriformes,Locustellidae,小蝗莺,Helopsaltes certhiola,Pallas's Grasshopper Warbler,确认,少见的旅鸟，一年不足一次观察记录，救助、死亡记录较多,avibase-4C3CF429
+23899,Passeriformes,Locustellidae,矛斑蝗莺,Locustella lanceolata,Lanceolated Warbler,确认,少见的旅鸟，一年不足一次观察记录，救助、死亡记录较多,avibase-10A37318
+23921,Passeriformes,Locustellidae,中华短翅蝗莺,Locustella tacsanowskia,Chinese Bush Warbler,确认,少见的旅鸟，一年不足一次记录,avibase-AD2C0444
 23931,Passeriformes,Locustellidae,北短翅蝗莺,Locustella davidi,Baikal Bush Warbler,,不常见的旅鸟，一年仅有少数几次记录,avibase-A3DA71AE
-24156,Passeriformes,Hirundinidae,崖沙燕,Riparia riparia,Bank Swallow,,罕见的旅鸟，近年仅有一次记录,avibase-94A1C447
-24247,Passeriformes,Hirundinidae,岩燕,Ptyonoprogne rupestris,Eurasian Crag-Martin,,少见的旅鸟，一年不足一次记录,avibase-6F2AF9D0
+24156,Passeriformes,Hirundinidae,崖沙燕,Riparia riparia,Bank Swallow,确认,罕见的旅鸟，近年仅有一次记录,avibase-94A1C447
+24247,Passeriformes,Hirundinidae,岩燕,Ptyonoprogne rupestris,Eurasian Crag-Martin,确认,少见的旅鸟，一年不足一次记录,avibase-6F2AF9D0
 24292,Passeriformes,Hirundinidae,家燕,Hirundo rustica,Barn Swallow,,常见的旅鸟和夏候鸟，但目前尚无tytleri亚种的确切记录,avibase-58C502EA
 24324,Passeriformes,Hirundinidae,白腹毛脚燕,Delichon lagopodum,Siberian House-Martin,,罕见，近年无记录,avibase-535F7C54
-24326,Passeriformes,Hirundinidae,烟腹毛脚燕,Delichon dasypus,Asian House-Martin,,罕见的旅鸟，近年仅有一次记录,avibase-15FD4123
+24326,Passeriformes,Hirundinidae,烟腹毛脚燕,Delichon dasypus,Asian House-Martin,确认,罕见的旅鸟，近年仅有一次记录,avibase-15FD4123
 24345,Passeriformes,Hirundinidae,金腰燕,Cecropis daurica,Eastern Red-rumped Swallow,,常见的旅鸟和夏候鸟,avibase-6FE118C6
 24817,Passeriformes,Pycnonotidae,白头鹎,Pycnonotus sinensis,Light-vented Bulbul,,甚常见的留鸟，近年来似乎愈发常见,avibase-BB5650EB
 24910,Passeriformes,Phylloscopidae,黄眉柳莺,Phylloscopus inornatus,Yellow-browed Warbler,,甚常见的旅鸟,avibase-0C120038
@@ -169,84 +169,84 @@
 24927,Passeriformes,Phylloscopidae,棕眉柳莺,Phylloscopus armandii,Yellow-streaked Warbler,,不常见的旅鸟，一年仅有少数几次记录,avibase-B763DEC5
 24937,Passeriformes,Phylloscopidae,褐柳莺,Phylloscopus fuscatus,Dusky Warbler,,常见的旅鸟,avibase-96819591
 24981,Passeriformes,Phylloscopidae,冕柳莺,Phylloscopus coronatus,Eastern Crowned Warbler,,不常见的旅鸟，一年仅有少数几次记录,avibase-2D272F5A
-25030,Passeriformes,Phylloscopidae,淡尾鹟莺,Phylloscopus soror,Alström's Warbler,,罕见的旅鸟，仅有一次记录,avibase-65EA17D9
+25030,Passeriformes,Phylloscopidae,淡尾鹟莺,Phylloscopus soror,Alström's Warbler,确认,罕见的旅鸟，仅有一次记录,avibase-65EA17D9
 25041,Passeriformes,Phylloscopidae,双斑绿柳莺,Phylloscopus plumbeitarsus,Two-barred Warbler,,较常见的旅鸟,avibase-38C788AE
 25044,Passeriformes,Phylloscopidae,乌嘴柳莺,Phylloscopus magnirostris,Large-billed Leaf Warbler,,罕见的过境鸟，近年无记录,avibase-C31573A5
-25046,Passeriformes,Phylloscopidae,淡脚柳莺,Phylloscopus tenellipes,Pale-legged Leaf Warbler,,少见的旅鸟，一年不足一次记录,avibase-D0FA2385
+25046,Passeriformes,Phylloscopidae,淡脚柳莺,Phylloscopus tenellipes,Pale-legged Leaf Warbler,确认,少见的旅鸟，一年不足一次记录,avibase-D0FA2385
 25050,Passeriformes,Phylloscopidae,极北柳莺,Phylloscopus borealis,Arctic Warbler,,较常见的旅鸟,avibase-ECFC7E6C
 25088,Passeriformes,Phylloscopidae,冠纹柳莺,Phylloscopus claudiae,Claudia's Leaf Warbler,,较常见的旅鸟,avibase-0B7734A6
-25195,Passeriformes,Cettiidae,鳞头树莺,Urosphena squameiceps,Asian Stubtail,,少见或不常见的旅鸟，一年约有一次观察记录，但使用红外相机后记录明显增多,avibase-1A0CF540
+25195,Passeriformes,Cettiidae,鳞头树莺,Urosphena squameiceps,Asian Stubtail,确认,少见或不常见的旅鸟，一年约有一次观察记录，但使用红外相机后记录明显增多,avibase-1A0CF540
 25233,Passeriformes,Cettiidae,棕脸鹟莺,Abroscopus albogularis,Rufous-faced Warbler,,,avibase-684016CB
-25270,Passeriformes,Cettiidae,远东树莺,Horornis canturians,Manchurian Bush Warbler,,少见的旅鸟，一年不足一次记录,avibase-CF833D56
-25319,Passeriformes,Aegithalidae,北长尾山雀,Aegithalos caudatus,Long-tailed Tit,,罕见的冬候鸟，有明显的大小年，2023年后有记录到形态介于其与银喉长尾山雀间的中间型个体,avibase-547163C2
+25270,Passeriformes,Cettiidae,远东树莺,Horornis canturians,Manchurian Bush Warbler,确认,少见的旅鸟，一年不足一次记录,avibase-CF833D56
+25319,Passeriformes,Aegithalidae,北长尾山雀,Aegithalos caudatus,Long-tailed Tit,确认,罕见的冬候鸟，有明显的大小年，2023年后有记录到形态介于其与银喉长尾山雀间的中间型个体,avibase-547163C2
 25339,Passeriformes,Aegithalidae,银喉长尾山雀,Aegithalos glaucogularis,Silver-throated Tit,,常见的留鸟,avibase-67134AC3
-25416,Passeriformes,Sylviidae,白喉林莺,Curruca curruca,Lesser Whitethroat,,罕见的冬候鸟或迷鸟，仅有一次记录,avibase-0DCD05BE
+25416,Passeriformes,Sylviidae,白喉林莺,Curruca curruca,Lesser Whitethroat,确认,罕见的冬候鸟或迷鸟，仅有一次记录,avibase-0DCD05BE
 25512,Passeriformes,Paradoxornithidae,山鹛,Rhopophilus pekinensis,Beijing Babbler,,罕见，近年无记录,avibase-4AEBE232
 25616,Passeriformes,Paradoxornithidae,棕头鸦雀,Suthora webbiana,Vinous-throated Parrotbill,,常见的留鸟，近年来似乎愈发常见,avibase-32709919
 25732,Passeriformes,Zosteropidae,红胁绣眼鸟,Zosterops erythropleurus,Chestnut-flanked White-eye,,应为常见的旅鸟，过去可能受到忽视，注意其飞鸣,avibase-03E6F144
 25733,Passeriformes,Zosteropidae,暗绿绣眼鸟,Zosterops simplex,Swinhoe's White-eye,,应为常见的旅鸟，过去可能受到忽视，注意其飞鸣,avibase-B1AC8066
-26957,Passeriformes,Leiothrichidae,山噪鹛,Pterorhinus davidi,Plain Laughingthrush,,罕见，仅有一次记录，应为游荡个体,avibase-ECB9A862
+26957,Passeriformes,Leiothrichidae,山噪鹛,Pterorhinus davidi,Plain Laughingthrush,确认,罕见，仅有一次记录，应为游荡个体,avibase-ECB9A862
 27000,Passeriformes,Regulidae,戴菊,Regulus regulus,Goldcrest,,不常见的冬候鸟，有大小年，一年仅有少数几次记录,avibase-1C51C109
 27085,Passeriformes,Sittidae,黑头䴓,Sitta villosa,Snowy-browed Nuthatch,,常见的留鸟，近年来似乎愈发常见,avibase-CEB2041A
-27114,Passeriformes,Sittidae,普通䴓,Sitta europaea,Eurasian Nuthatch,,罕见的冬候鸟，有明显的大小年，目前仅有amurensis亚种的记录,avibase-9C2B53A0
-27158,Passeriformes,Certhiidae,旋木雀,Certhia familiaris,Eurasian Treecreeper,,罕见的冬候鸟，仅有一次记录,avibase-73BE9A87
+27114,Passeriformes,Sittidae,普通䴓,Sitta europaea,Eurasian Nuthatch,确认,罕见的冬候鸟，有明显的大小年，目前仅有amurensis亚种的记录,avibase-9C2B53A0
+27158,Passeriformes,Certhiidae,旋木雀,Certhia familiaris,Eurasian Treecreeper,确认,罕见的冬候鸟，仅有一次记录,avibase-73BE9A87
 27418,Passeriformes,Troglodytidae,鹪鹩,Nannus troglodytes,Eurasian Wren,,较常见的冬候鸟,avibase-AF700208
-27986,Passeriformes,Sturnidae,紫翅椋鸟,Sturnus vulgaris,European Starling,,罕见的旅鸟，仅有一次记录,avibase-94A44032
+27986,Passeriformes,Sturnidae,紫翅椋鸟,Sturnus vulgaris,European Starling,确认,罕见的旅鸟，仅有一次记录,avibase-94A44032
 28004,Passeriformes,Sturnidae,北椋鸟,Agropsar sturninus,Daurian Starling,,常见的夏候鸟，在西门附近有稳定繁殖记录，近年可能有至少三对,avibase-2FC5C397
 28031,Passeriformes,Sturnidae,丝光椋鸟,Spodiopsar sericeus,Red-billed Starling,,较常见的留鸟，应存在部分迁徙,avibase-8E1A6EB9
 28032,Passeriformes,Sturnidae,灰椋鸟,Spodiopsar cineraceus,White-cheeked Starling,,常见的留鸟，应存在部分迁徙，春秋季节可见集大群,avibase-632ACC15
 28064,Passeriformes,Sturnidae,八哥,Acridotheres cristatellus,Crested Myna,,常见的留鸟，最早应来自逃逸或放生种群,avibase-65BCBB64
 28391,Passeriformes,Turdidae,虎斑地鸫,Zoothera aurea,White's Thrush,,较常见的旅鸟，一年仅有少数几次观察记录，但使用红外相机后记录明显增多,avibase-8E267A26
 28534,Passeriformes,Turdidae,白眉地鸫,Geokichla sibirica,Siberian Thrush,,罕见的旅鸟，近年无记录,avibase-E7163B81
-28584,Passeriformes,Turdidae,橙头地鸫,Geokichla citrina,Orange-headed Thrush,,罕见的旅鸟或迷鸟，仅有一次记录,avibase-F82540A0
+28584,Passeriformes,Turdidae,橙头地鸫,Geokichla citrina,Orange-headed Thrush,确认,罕见的旅鸟或迷鸟，仅有一次记录,avibase-F82540A0
 28601,Passeriformes,Turdidae,宝兴歌鸫,Turdus mupinensis,Chinese Thrush,,不常见的旅鸟，一年仅有少数几次观察记录,avibase-4435BAA4
 28619,Passeriformes,Turdidae,乌鸫,Turdus mandarinus,Chinese Blackbird,,甚常见的留鸟，近年来似乎愈发常见,avibase-BE61F5C1
-28675,Passeriformes,Turdidae,白眉歌鸫,Turdus iliacus,Redwing,,罕见的冬候鸟，仅有一次记录,avibase-A8A85BCF
-28689,Passeriformes,Turdidae,灰背鸫,Turdus hortulorum,Gray-backed Thrush,,少见或不常见的旅鸟，一年不足一次观察记录，但使用红外相机后记录增多,avibase-FCC6C5EA
-28690,Passeriformes,Turdidae,乌灰鸫,Turdus cardis,Japanese Thrush,,罕见的冬候鸟，仅有一次记录,avibase-259E02EC
+28675,Passeriformes,Turdidae,白眉歌鸫,Turdus iliacus,Redwing,确认,罕见的冬候鸟，仅有一次记录,avibase-A8A85BCF
+28689,Passeriformes,Turdidae,灰背鸫,Turdus hortulorum,Gray-backed Thrush,确认,少见或不常见的旅鸟，一年不足一次观察记录，但使用红外相机后记录增多,avibase-FCC6C5EA
+28690,Passeriformes,Turdidae,乌灰鸫,Turdus cardis,Japanese Thrush,确认,罕见的冬候鸟，仅有一次记录,avibase-259E02EC
 28765,Passeriformes,Turdidae,白腹鸫,Turdus pallidus,Pale Thrush,,罕见，近年无记录,avibase-B6A18478
 28766,Passeriformes,Turdidae,白眉鸫,Turdus obscurus,Eyebrowed Thrush,,不常见的旅鸟，一年仅有少数几次观察记录,avibase-6E24CCD1
-28767,Passeriformes,Turdidae,褐头鸫,Turdus feae,Gray-sided Thrush,,少见的旅鸟，一年不足一次记录,avibase-4C2FBE92
+28767,Passeriformes,Turdidae,褐头鸫,Turdus feae,Gray-sided Thrush,确认,少见的旅鸟，一年不足一次记录,avibase-4C2FBE92
 28782,Passeriformes,Turdidae,黑喉鸫,Turdus atrogularis,Black-throated Thrush,,不常见的冬候鸟，有大小年，一年仅有少数几次观察记录，有一些形态介于其与赤颈鸫间的中间型个体,avibase-AECDBFFA
 28783,Passeriformes,Turdidae,赤颈鸫,Turdus ruficollis,Red-throated Thrush,,较常见的冬候鸟,avibase-77B6BACB
 28786,Passeriformes,Turdidae,斑鸫,Turdus eunomus,Dusky Thrush,,较常见的冬候鸟，有一些形态介于其与红尾鸫间的中间型个体,avibase-E3B69278
 28787,Passeriformes,Turdidae,红尾斑鸫,Turdus naumanni,Naumann's Thrush,,常见的冬候鸟,avibase-22761AD4
-28968,Passeriformes,Muscicapidae,灰纹鹟,Muscicapa griseisticta,Gray-streaked Flycatcher,,少见或罕见的旅鸟，一年不足一次记录，且易与另外两种Muscicapa属鹟混淆,avibase-B4FF5927
+28968,Passeriformes,Muscicapidae,灰纹鹟,Muscicapa griseisticta,Gray-streaked Flycatcher,确认,少见或罕见的旅鸟，一年不足一次记录，且易与另外两种Muscicapa属鹟混淆,avibase-B4FF5927
 28969,Passeriformes,Muscicapidae,乌鹟,Muscicapa sibirica,Dark-sided Flycatcher,,常见的旅鸟,avibase-BCB683C2
 28977,Passeriformes,Muscicapidae,北灰鹟,Muscicapa dauurica,Asian Brown Flycatcher,,常见的旅鸟,avibase-585D0B1A
-29260,Passeriformes,Muscicapidae,琉璃蓝鹟,Cyanoptila cumatilis,Zappey's Flycatcher,,少见或罕见的旅鸟，一年不足一次记录，雌鸟和幼鸟形态基本无法与白腹蓝鹟区分,avibase-BC81D33B
+29260,Passeriformes,Muscicapidae,琉璃蓝鹟,Cyanoptila cumatilis,Zappey's Flycatcher,确认,少见或罕见的旅鸟，一年不足一次记录，雌鸟和幼鸟形态基本无法与白腹蓝鹟区分,avibase-BC81D33B
 29276,Passeriformes,Muscicapidae,铜蓝鹟,Eumyias thalassinus,Verditer Flycatcher,,,avibase-1DF0E856
-29444,Passeriformes,Muscicapidae,欧亚鸲,Erithacus rubecula,European Robin,,罕见的迷鸟，仅有两次记录,avibase-E68C3C70
+29444,Passeriformes,Muscicapidae,欧亚鸲,Erithacus rubecula,European Robin,确认,罕见的迷鸟，仅有两次记录,avibase-E68C3C70
 29577,Passeriformes,Muscicapidae,红尾歌鸲,Larvivora sibilans,Rufous-tailed Robin,,不常见的旅鸟，一年约有一次观察记录，但使用红外相机后记录明显增多,avibase-9C056398
 29588,Passeriformes,Muscicapidae,蓝歌鸲,Larvivora cyane,Siberian Blue Robin,,常见的旅鸟，使用红外相机后记录明显增多,avibase-A8AA7E19
-29603,Passeriformes,Muscicapidae,蓝喉歌鸲,Luscinia svecica,Bluethroat,,罕见的旅鸟，仅有两次记录,avibase-AFD6FD81
+29603,Passeriformes,Muscicapidae,蓝喉歌鸲,Luscinia svecica,Bluethroat,确认,罕见的旅鸟，仅有两次记录,avibase-AFD6FD81
 29665,Passeriformes,Muscicapidae,红喉歌鸲,Calliope calliope,Siberian Rubythroat,,较常见的旅鸟，一年仅有少数几次观察记录，但使用红外相机后记录明显增多,avibase-786B0F98
 29682,Passeriformes,Muscicapidae,红胁蓝尾鸲,Tarsiger cyanurus,Red-flanked Bluetail,,常见的旅鸟和少见的冬候鸟，形态基本无法与祁连山蓝尾鸲区分,avibase-E54B8DEE
 29700,Passeriformes,Muscicapidae,白眉姬鹟,Ficedula zanthopygia,Yellow-rumped Flycatcher,,较常见的旅鸟,avibase-70030C48
 29701,Passeriformes,Muscicapidae,绿背姬鹟,Ficedula elisae,Green-backed Flycatcher,,不常见的旅鸟，一年仅有少数几次观察记录,avibase-40B76146
-29710,Passeriformes,Muscicapidae,鸲姬鹟,Ficedula mugimaki,Mugimaki Flycatcher,,罕见的旅鸟，仅有一次确认的记录,avibase-0557B8E5
-29711,Passeriformes,Muscicapidae,锈胸蓝姬鹟,Ficedula erithacus,Slaty-backed Flycatcher,,罕见的旅鸟，仅有两次记录,avibase-EF8548B9
+29710,Passeriformes,Muscicapidae,鸲姬鹟,Ficedula mugimaki,Mugimaki Flycatcher,确认,罕见的旅鸟，仅有一次确认的记录,avibase-0557B8E5
+29711,Passeriformes,Muscicapidae,锈胸蓝姬鹟,Ficedula erithacus,Slaty-backed Flycatcher,确认,罕见的旅鸟，仅有两次记录,avibase-EF8548B9
 29762,Passeriformes,Muscicapidae,红喉姬鹟,Ficedula albicilla,Taiga Flycatcher,,甚常见的旅鸟,avibase-99985173
-29811,Passeriformes,Muscicapidae,红尾水鸲,Phoenicurus fuliginosus,Plumbeous Redstart,,罕见，仅有一次记录，应为游荡个体,avibase-1850B440
+29811,Passeriformes,Muscicapidae,红尾水鸲,Phoenicurus fuliginosus,Plumbeous Redstart,确认,罕见，仅有一次记录，应为游荡个体,avibase-1850B440
 29841,Passeriformes,Muscicapidae,北红尾鸲,Phoenicurus auroreus,Daurian Redstart,,常见的旅鸟和少见的冬候鸟，2025年于燕南园有繁殖记录，约有两对,avibase-E859E499
-29849,Passeriformes,Muscicapidae,白喉矶鸫,Monticola gularis,White-throated Rock-Thrush,,少见或罕见的旅鸟，一年不足一次记录,avibase-AC6BC1EC
+29849,Passeriformes,Muscicapidae,白喉矶鸫,Monticola gularis,White-throated Rock-Thrush,确认,少见或罕见的旅鸟，一年不足一次记录,avibase-AC6BC1EC
 29899,Passeriformes,Muscicapidae,东亚石䳭,Saxicola stejnegeri,,,常见的旅鸟,avibase-80216E85
 30106,Passeriformes,Bombycillidae,太平鸟,Bombycilla garrulus,Bohemian Waxwing,,不常见的旅鸟和冬候鸟，有明显的大小年,avibase-AEF821EC
 30112,Passeriformes,Bombycillidae,小太平鸟,Bombycilla japonica,Japanese Waxwing,,不常见的旅鸟和冬候鸟，有明显的大小年,avibase-F13AA87F
-31738,Passeriformes,Prunellidae,棕眉山岩鹨,Prunella montanella,Siberian Accentor,,少见的旅鸟，一年不足一次记录,avibase-D3220040
+31738,Passeriformes,Prunellidae,棕眉山岩鹨,Prunella montanella,Siberian Accentor,确认,少见的旅鸟，一年不足一次记录,avibase-D3220040
 31841,Passeriformes,Passeridae,麻雀,Passer montanus,Eurasian Tree Sparrow,,甚常见的留鸟,avibase-C22FBF8D
-31905,Passeriformes,Motacillidae,山鹡鸰,Dendronanthus indicus,Forest Wagtail,,少见的旅鸟，一年不足一次记录,avibase-8E872FAA
+31905,Passeriformes,Motacillidae,山鹡鸰,Dendronanthus indicus,Forest Wagtail,确认,少见的旅鸟，一年不足一次记录,avibase-8E872FAA
 31916,Passeriformes,Motacillidae,灰鹡鸰,Motacilla cinerea,Gray Wagtail,,较常见的旅鸟和冬候鸟,avibase-AE073221
 31940,Passeriformes,Motacillidae,黄鹡鸰,Motacilla tschutschensis,Eastern Yellow Wagtail,,较常见的旅鸟，东北门草坪修建后记录明显增多,avibase-5487B650
 31947,Passeriformes,Motacillidae,黄头鹡鸰,Motacilla citreola,Citrine Wagtail,,罕见，近年无记录,avibase-5B0295C1
 31960,Passeriformes,Motacillidae,白鹡鸰,Motacilla alba,White Wagtail,,常见的旅鸟，目前仅有leucopsis亚种和ocularis亚种的确切记录，其中前者2025年有繁殖记录,avibase-400E032C
 31992,Passeriformes,Motacillidae,理氏鹨,Anthus richardi,Richard's Pipit,,常见的旅鸟，过去可能受到忽视，注意其飞鸣,avibase-41ECD10E
-32054,Passeriformes,Motacillidae,布氏鹨,Anthus godlewskii,Blyth's Pipit,,少见的旅鸟，一年不足一次记录,avibase-9F65782F
+32054,Passeriformes,Motacillidae,布氏鹨,Anthus godlewskii,Blyth's Pipit,确认,少见的旅鸟，一年不足一次记录,avibase-9F65782F
 32100,Passeriformes,Motacillidae,树鹨,Anthus hodgsoni,Olive-backed Pipit,,甚常见的旅鸟，注意其飞鸣,avibase-25F7AF65
 32104,Passeriformes,Motacillidae,北鹨,Anthus gustavi,Pechora Pipit,,罕见，近年无记录,avibase-9DC4CC54
-32109,Passeriformes,Motacillidae,红喉鹨,Anthus cervinus,Red-throated Pipit,,少见的旅鸟，一年不足一次记录,avibase-319D044A
+32109,Passeriformes,Motacillidae,红喉鹨,Anthus cervinus,Red-throated Pipit,确认,少见的旅鸟，一年不足一次记录,avibase-319D044A
 32110,Passeriformes,Motacillidae,水鹨,Anthus spinoletta,Water Pipit,,罕见，近年无记录,avibase-0A3FA185
-32121,Passeriformes,Motacillidae,黄腹鹨,Anthus japonicus,Siberian Pipit,,少见的旅鸟，一年不足一次记录,avibase-CEF9CA9D
+32121,Passeriformes,Motacillidae,黄腹鹨,Anthus japonicus,Siberian Pipit,确认,少见的旅鸟，一年不足一次记录,avibase-CEF9CA9D
 32187,Passeriformes,Fringillidae,苍头燕雀,Fringilla coelebs,Common Chaffinch,,罕见，近年无确切记录,avibase-6364E4A5
 32214,Passeriformes,Fringillidae,燕雀,Fringilla montifringilla,Brambling,,甚常见的冬候鸟和较常见的旅鸟,avibase-E16B2C03
 32339,Passeriformes,Fringillidae,锡嘴雀,Coccothraustes coccothraustes,Hawfinch,,不常见或较常见的冬候鸟，有明显的大小年,avibase-84E1F114
@@ -257,18 +257,18 @@
 32456,Passeriformes,Fringillidae,北朱雀,Carpodacus roseus,Pallas's Rosefinch,,罕见，近年无记录,avibase-68DF5AB7
 32591,Passeriformes,Fringillidae,金翅雀,Chloris sinica,Oriental Greenfinch,,甚常见的留鸟,avibase-684A6610
 32734,Passeriformes,Fringillidae,白腰朱顶雀,Acanthis flammea,Redpoll,,罕见，近年无记录,avibase-B6C8DDB2
-32747,Passeriformes,Fringillidae,红交嘴雀,Loxia curvirostra,Red Crossbill,,罕见的冬候鸟，有大小年，仅有一次记录,avibase-135564AA
+32747,Passeriformes,Fringillidae,红交嘴雀,Loxia curvirostra,Red Crossbill,确认,罕见的冬候鸟，有大小年，仅有一次记录,avibase-135564AA
 32848,Passeriformes,Fringillidae,黄雀,Spinus spinus,Eurasian Siskin,,不常见的冬候鸟和旅鸟，有大小年，一年仅有少数几次记录,avibase-9820CECA
-32954,Passeriformes,Emberizidae,栗耳鹀,Emberiza fucata,Chestnut-eared Bunting,,罕见的旅鸟，仅有一次记录,avibase-465C35EF
-32965,Passeriformes,Emberizidae,灰眉岩鹀,Emberiza godlewskii,Godlewski's Bunting,,罕见，本世纪仅有两次记录，再上一次记录是1985年，应为游荡个体,avibase-EF5E5726
+32954,Passeriformes,Emberizidae,栗耳鹀,Emberiza fucata,Chestnut-eared Bunting,确认,罕见的旅鸟，仅有一次记录,avibase-465C35EF
+32965,Passeriformes,Emberizidae,灰眉岩鹀,Emberiza godlewskii,Godlewski's Bunting,确认,罕见，本世纪仅有两次记录，再上一次记录是1985年，应为游荡个体,avibase-EF5E5726
 32973,Passeriformes,Emberizidae,三道眉草鹀,Emberiza cioides,Meadow Bunting,,罕见，近年无记录,avibase-2D55EC45
 32986,Passeriformes,Emberizidae,白头鹀,Emberiza leucocephalos,Pine Bunting,,罕见，近年无记录,avibase-43EF3EA7
 33048,Passeriformes,Emberizidae,黄喉鹀,Schoeniclus elegans,Yellow-throated Bunting,,常见的旅鸟和冬候鸟,avibase-82D1EE00
-33054,Passeriformes,Emberizidae,苇鹀,Schoeniclus pallasi,Pallas's Bunting,,少见或罕见，一年不足一次记录，应为游荡个体,avibase-C6D6D547
+33054,Passeriformes,Emberizidae,苇鹀,Schoeniclus pallasi,Pallas's Bunting,确认,少见或罕见，一年不足一次记录，应为游荡个体,avibase-C6D6D547
 33081,Passeriformes,Emberizidae,黄胸鹀,Schoeniclus aureolus,Yellow-breasted Bunting,,罕见，近年无记录,avibase-7574C0E5
 33084,Passeriformes,Emberizidae,小鹀,Schoeniclus pusillus,Little Bunting,,常见的旅鸟,avibase-1866F80E
-33085,Passeriformes,Emberizidae,田鹀,Schoeniclus rusticus,Rustic Bunting,,罕见的旅鸟，仅有两次记录,avibase-DA9746CE
+33085,Passeriformes,Emberizidae,田鹀,Schoeniclus rusticus,Rustic Bunting,确认,罕见的旅鸟，仅有两次记录,avibase-DA9746CE
 33089,Passeriformes,Emberizidae,灰头鹀,Schoeniclus spodocephalus,Black-faced Bunting,,较常见的旅鸟,avibase-9787BE57
 33094,Passeriformes,Emberizidae,栗鹀,Schoeniclus rutilus,Chestnut Bunting,,少见的旅鸟，一年约有一次记录,avibase-ACDCF3CC
-33095,Passeriformes,Emberizidae,黄眉鹀,Schoeniclus chrysophrys,Yellow-browed Bunting,,少见的旅鸟，一年不足一次记录,avibase-4A50E265
+33095,Passeriformes,Emberizidae,黄眉鹀,Schoeniclus chrysophrys,Yellow-browed Bunting,确认,少见的旅鸟，一年不足一次记录,avibase-4A50E265
 33096,Passeriformes,Emberizidae,白眉鹀,Schoeniclus tristrami,Tristram's Bunting,,较常见的旅鸟,avibase-A81C4DA6
